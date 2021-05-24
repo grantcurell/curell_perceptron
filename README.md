@@ -35,6 +35,10 @@ It is a Python implementation of the Perceptron algorithm.
 
 ![](images/2021-05-24-12-07-28.png)
 
+### YouTube Video
+
+This is what it looks like when running in real time: https://youtu.be/A_jwin6IwYM
+
 ## Known Problems
 
 - The purple line $h$ is not labeled
